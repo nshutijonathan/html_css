@@ -1,0 +1,29 @@
+.container {
+  padding: 20px;
+  width: max-content;
+  display: flex;
+  border: 1px solid black;
+}
+
+.block1,
+.block2,
+.block3 {
+  height: 40px;
+  width: 120px;
+}
+
+.block1 {
+  background-color: rgb(224, 110, 49);
+  margin-right: 20px;
+  opacity: 0;
+}
+
+.block2 {
+  background-color: rgb(77, 77, 234);
+  margin-right: 20px;
+  opacity: 0;
+}
+
+.block3 {
+  background-color: rgb(12, 154, 142);
+}
